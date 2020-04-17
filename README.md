@@ -39,7 +39,7 @@ automatically when you run `IJulia.notebook()` below.  (You
 can force it to use a specific `jupyter` installation by
 setting `ENV["JUPYTER"]` to the path of the `jupyter` program
 before `Pkg.add`, or before running `Pkg.build("IJulia")`;
-your preference is remembered on subsequent updates.
+your preference is remembered on subsequent updates.)
 
 ### Running the IJulia Notebook
 
